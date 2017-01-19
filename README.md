@@ -1,5 +1,7 @@
 # hello-world
 
+Download repository on your git cmd:
+
 C:\Users\gzhang>git config --global user.name "gloriaxinhui"
 
 C:\Users\gzhang>git config --global user.email gloriaxinhui@gmail.com
